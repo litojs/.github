@@ -1,12 +1,7 @@
-## Hi there 👋
+# Lito Framework
 
-<!--
+>[!CAUTION]
+>This project is still in development and is not ready for production use. It still very early in development and under heavy development.
 
-**Here are some ideas to get you started:**
+It's an opinionated fullstack framework built on top of Bun.js inspired by laravel and django. The main goal of this project is to provide a pragmaticfullstack framework that is easy to use.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
